@@ -1,5 +1,5 @@
 import CandyColoredHeart from './CandyColoredHeart';
-import Heart from './CandyColoredHeart';
+
 const messages = [
     'cool cud',
     'me my <3',
